@@ -1,0 +1,3 @@
+$ cat .gitignore
+lib/demos-config/config.js
+node_modules/

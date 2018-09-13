@@ -10,6 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.4.2"
+    "demos-config": "file:lib/demos-config",
+    "discord.js": "^11.4.2",
+    "djs-router": "^1.0.0"
   }
 }
